@@ -1,0 +1,10 @@
+C:\Users\Maria\source\repos\calculator v2\calculator v2\bin\Debug\calculator v2.exe.config
+C:\Users\Maria\source\repos\calculator v2\calculator v2\bin\Debug\calculator v2.exe
+C:\Users\Maria\source\repos\calculator v2\calculator v2\bin\Debug\calculator v2.pdb
+C:\Users\Maria\source\repos\calculator v2\calculator v2\obj\Debug\calculator v2.csproj.AssemblyReference.cache
+C:\Users\Maria\source\repos\calculator v2\calculator v2\obj\Debug\calculator_v2.Form1.resources
+C:\Users\Maria\source\repos\calculator v2\calculator v2\obj\Debug\calculator_v2.Properties.Resources.resources
+C:\Users\Maria\source\repos\calculator v2\calculator v2\obj\Debug\calculator v2.csproj.GenerateResource.cache
+C:\Users\Maria\source\repos\calculator v2\calculator v2\obj\Debug\calculator v2.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\calculator v2\calculator v2\obj\Debug\calculator v2.exe
+C:\Users\Maria\source\repos\calculator v2\calculator v2\obj\Debug\calculator v2.pdb
